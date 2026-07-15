@@ -1,7 +1,6 @@
-# PYTHON-PROJECT-TASKS
-INTERNSHIP TASKS
-
-Automatic File Organizer
+INTERNSHIP TASK 1:
+Python automation script:
+Automatic File Organizer:
 
 Overview:
 
