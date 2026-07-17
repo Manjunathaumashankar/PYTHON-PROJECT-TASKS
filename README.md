@@ -1,10 +1,10 @@
 INTERNSHIP TASK 1:
 Python automation script:
-Automatic File Organizer:
+Smart File Organizer:
 
 Overview:
 
-The *Automatic File Organizer* is a simple Python project that helps organize files in a selected folder. It automatically sorts files into different folders such as *Images*, *Documents*, *Videos*, *Music*, *Archives*, *Programs*, and *Others* based on their file extensions.
+The *Smart File Organizer* is a simple Python project that helps organize files in a selected folder. It automatically sorts files into different folders such as *Images*, *Documents*, *Videos*, *Music*, *Archives*, *Programs*, and *Others* based on their file extensions.
 
 This project was developed as a learning exercise to understand Python file handling, modules, and directory management.
 
@@ -59,7 +59,7 @@ Installation:
 1. Clone this repository:
 
 bash
-git clone https://github.com/your-username/Automatic-File-Organizer.git
+git clone https://github.com/your-username/Smart-File-Organizer.git
 
 2. Open the project folder.
 
